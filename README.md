@@ -2,5 +2,5 @@
 
 View Jupyter Notebook using NBviwer:
 
-1)
-2)
+1) https://nbviewer.jupyter.org/github/kmoulosiotis/Twitter-Sentiment-Analysis/blob/main/NLP_USA_Elections_2020_NLTK_Vader_Lexicon_Sentiment_Analysis.ipynb
+2) https://nbviewer.jupyter.org/github/kmoulosiotis/Twitter-Sentiment-Analysis/blob/main/NLP_USA_Elections_2020_clustering.ipynb
